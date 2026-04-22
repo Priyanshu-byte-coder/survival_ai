@@ -1,0 +1,14 @@
+requests>=2.31.0
+numpy>=1.24.0,<2.0.0
+chromadb>=0.4.22
+flask>=3.0.0
+flask-cors>=4.0.0
+
+# Optional: Hardware support
+# adafruit-circuitpython-rfm9x>=2.0  # LoRa radio
+# adafruit-circuitpython-rgb-display>=1.0  # TFT display
+# adafruit-circuitpython-epd>=1.0  # E-ink display
+
+# Optional: STT
+# vosk>=0.3.45  # Offline speech recognition
+# faster-whisper>=0.10.0  # Fast Whisper for STT
